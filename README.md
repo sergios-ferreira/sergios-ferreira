@@ -6,10 +6,11 @@
   Hello there 🖐️👽 I'm Sérgio !!!
 </h1>
 
-<p align='center'> Author:
-| [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHo4vnaK6ADIw/profile-displayphoto-shrink_400_400/0/1622435634854?e=1634774400&v=beta&t=Wc1vPwfkyuEFwQnAxuwdXHwgoZmhkqQL_2iH7JWp8bU" width=115><br><sub>@sergiosdev</sub>](https://github.com/sergiosdev) |
-| :---: |
+<p align='center'> 
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHo4vnaK6ADIw/profile-displayphoto-shrink_400_400/0/1622435634854?e=1634774400&v=beta&t=Wc1vPwfkyuEFwQnAxuwdXHwgoZmhkqQL_2iH7JWp8bU" style="border: 3px #79db75 solid;max-width: 100%;border-radius: 110px 120px 3px 110px;"><br>
 </p>
+    
+    
   
 
 <p align='center'>
