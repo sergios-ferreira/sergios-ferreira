@@ -50,10 +50,12 @@
 
 ## Skills
 <p align="center">
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-Arduino-483D8B?logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/-pfsense-FF0000?logo=pfsense&logoColor=withe"/>
 </p>
 
 ## Operating Systems
@@ -65,7 +67,6 @@
 </p>
 
 ## 
-
 <details>
   <summary>📃 Resume</summary>
 
