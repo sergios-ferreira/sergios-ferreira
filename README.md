@@ -10,10 +10,10 @@
 
 <p align='center'>
   Information Technology Analyst with an emphasis on
-  ⮊ Web Systems Development
-  ⮊ Infrastructure analyst
-  ⮊ Digital Expertise
-  ... inside the Amazon forest (Manaus, Brazil) to the world.
+  <p>⮊ Web Systems Development</p>
+  <p>⮊ Infrastructure analyst</p>
+  <p>⮊ Digital Expertise</p>
+  <p>... inside the Amazon forest (Manaus, Brazil) to the world.</p>
 </p>
 
 
