@@ -9,7 +9,11 @@
 </h1>
 
 <p align='center'>
-  A Web developer inside the Amazon forest from Manaus, Brazil.
+  Information Technology Analyst with an emphasis on
+  ⮊ Web Systems Development
+  ⮊ Infrastructure analyst
+  ⮊ Digital Expertise
+  ... inside the Amazon forest (Manaus, Brazil) to the world.
 </p>
 
 
