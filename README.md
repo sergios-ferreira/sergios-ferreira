@@ -49,20 +49,21 @@
 
 
 ## Skills
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
 ## Operating Systems
 
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
 
 ## 
+_
 
 <details>
   <summary>📃 Resume</summary>
