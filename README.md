@@ -4,6 +4,9 @@
 
 <h1 align='center'>
   Hello there 🖐️👽 I'm Sérgio !!!
+  Author:
+| [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHo4vnaK6ADIw/profile-displayphoto-shrink_400_400/0/1622435634854?e=1634774400&v=beta&t=Wc1vPwfkyuEFwQnAxuwdXHwgoZmhkqQL_2iH7JWp8bU" width=115><br><sub>@sergiosdev</sub>](https://github.com/sergiosdev) |
+  
 </h1>
 
 <p align='center'>
