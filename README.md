@@ -7,7 +7,7 @@
 </h1>
 
 <p align='center' > 
-<img id="foto" src="https://media-exp1.licdn.com/dms/image/C4D03AQHo4vnaK6ADIw/profile-displayphoto-shrink_400_400/0/1622435634854?e=1634774400&v=beta&t=Wc1vPwfkyuEFwQnAxuwdXHwgoZmhkqQL_2iH7JWp8bU" width="100" style="border-color: red"><br>
+<img id="foto" src="http://riodotempo.com/images/gihub_page.png" width="100" style="border-color: red"><br>
 </p>
     
     
