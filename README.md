@@ -1,13 +1,20 @@
 <!--
 **sergiosdev/sergiosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<style>
+  #foto {
+  border:3px #79db75 solid;
+  width:115;
+  border-radius: 110px 120px 3px 110px;
+  }
+  
+</style>  
 <h1 align='center'>
   Hello there 🖐️👽 I'm Sérgio !!!
 </h1>
 
 <p align='center'> 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHo4vnaK6ADIw/profile-displayphoto-shrink_400_400/0/1622435634854?e=1634774400&v=beta&t=Wc1vPwfkyuEFwQnAxuwdXHwgoZmhkqQL_2iH7JWp8bU" border="3px #79db75 solid" width="115" border-radius="110px 120px 3px 110px;"><br>
+<img id="foto" src="https://media-exp1.licdn.com/dms/image/C4D03AQHo4vnaK6ADIw/profile-displayphoto-shrink_400_400/0/1622435634854?e=1634774400&v=beta&t=Wc1vPwfkyuEFwQnAxuwdXHwgoZmhkqQL_2iH7JWp8bU" ><br>
 </p>
     
     
