@@ -4,7 +4,6 @@
 **sergiosdev/sergiosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
 <h1 align='center'>
   Hi there 🖐️👽 I'm Sérgio !!!
 </h1>
@@ -55,7 +54,7 @@
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
-**Operating Systems**
+## Operating Systems
 
 <img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
@@ -64,6 +63,8 @@
 
 <details>
   <summary>📃 Resume</summary>
+
+_
 
 ## Education
 
