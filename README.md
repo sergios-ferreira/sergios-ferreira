@@ -16,7 +16,7 @@
 <p align='center'>
   Information Technology Analyst with aptitude in...
   <p align='center'>⮊ Web Systems Development</p>
-  <p align='center'>⮊ Infrastructure analyst</p>
+  <p align='center'>⮊ Network infrastructure</p>
   <p align='center'>⮊ Digital Expertise</p>
   <p align='center'>... inside the Amazon forest (Manaus, Brazil) to the world.</p>
 </p>
