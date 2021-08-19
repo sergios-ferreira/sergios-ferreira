@@ -14,7 +14,7 @@
   
 
 <p align='center'>
-  Information Technology Analyst with an emphasis on
+  Information Technology Analyst with aptitude in...
   <p align='center'>⮊ Web Systems Development</p>
   <p align='center'>⮊ Infrastructure analyst</p>
   <p align='center'>⮊ Digital Expertise</p>
