@@ -8,6 +8,8 @@
 
 <p align='center' > 
 <img id="foto" src="http://riodotempo.com/images/gihub_page.png" width="100" style="border-color: red"><br>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sergiosdev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/sergiosdev/pt-br?trk=profile-badge">Sérgio Ferreira</a></div>
+              
 </p>
     
     
