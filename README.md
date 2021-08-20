@@ -7,13 +7,11 @@
 </h1>
 
 <p align='center' > 
-<img id="foto" src="http://riodotempo.com/images/gihub_page.png" width="100" style="border-color: red"><br>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sergiosdev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/sergiosdev/pt-br?trk=profile-badge">Sérgio Ferreira</a></div>
-              
+  <a  href="https://br.linkedin.com/in/sergiosdev/pt-br?trk=profile-badge">  
+    <img id="foto" src="http://riodotempo.com/images/gihub_page.png" width="100" style="border-color: red">
+  </a>             
 </p>
-    
-    
-  
+   
 
 <p align='center'>
   Information Technology Analyst with aptitude in...
@@ -23,9 +21,7 @@
   <p align='center'>... inside the Amazon forest (Manaus, Brazil) to the world.</p>
 </p>
 
-
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/sergiosdev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -35,7 +31,6 @@
   <a href="https://wa.me/5592991156376" alt="WhatsApp">
     <img src="https://img.shields.io/badge/whatsapp-%3fba12.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  
 </p>
 
 <p align='center'>
@@ -64,20 +59,20 @@
 
 ## Skills
 <p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/-Arduino-483D8B?logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/-pfsense-FF0000?logo=pfsense&logoColor=withe"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-483D8B?logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-pfsense-FF0000?logo=pfsense&logoColor=withe"/>
 </p>
 
 ## Operating Systems
 <p align="center">
-<img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 </p>
 
 ## 
@@ -86,16 +81,13 @@
 
 ## Education
 
-- 📖 **Information Systems**\
-📆 2015 - 2020\
-📍 **Metropolitan University \of Manaus** - Amazonas, Brazil
+  - 📖 **Information Systems**\
+  📆 2015 - 2020\
+  📍 **Metropolitan University \of Manaus** - Amazonas, Brazil
 
-- 📖 **Multimedia Expertise**\
-📆 2020 - 2021\
-📍 **Graduate and Graduate Institute \of (Ipog)** - Amazonas, Brazil
+  - 📖 **Multimedia Expertise**\
+  📆 2020 - 2021\
+  📍 **Graduate and Graduate Institute \of (Ipog)** - Amazonas, Brazil
 
 </details>
 
-</foreignObject>
-</svg>
-  
