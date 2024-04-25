@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/sergiosdev/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://wa.me/5592991156376" alt="WhatsApp">
+  <a href="https://wa.me/5592991156376?text=Ola%20%te%20%encontrei%20%no%20%github..." alt="WhatsApp">
     <img src="https://img.shields.io/badge/whatsapp-%3fba12.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
